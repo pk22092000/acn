@@ -1,0 +1,27 @@
+.body-detail{
+    padding-top: 20px;
+    padding-left: 400px;
+    padding-right: 400px;
+  }
+
+  .image-detail{
+      display: flex;
+      justify-content: center;
+      padding-bottom: 50px;
+
+  }
+
+  .content-detail{
+      text-align: justify; 
+      font-family: 'Roboto', sans-serif;
+      font-size: 20px;
+  }
+
+  .title-detail{
+    text-transform: uppercase;
+    text-align: justify; 
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 30px; 
+  }
